@@ -8,7 +8,7 @@
 
     <string _locid = "11723" symbol = "cStringNotReadyToResearch"> %s er ikke klar til undersøkelse. </string>
 
-    <string _locid = "11724" symbol = "cStringHelpStringUnitFormat" comment = "1 - kulturnavn, 2 - hurtigtasttekst, 3 - kostnad, 4 - pop, 5 - overføringstekst"> %1s %2s.  %3s  %4s\n%5s</string>
+    <string _locid = "11724" symbol = "cStringHelpStringUnitFormat" comment = "1 - kulturnavn, 2 - hurtigtasttekst, 3 - kostnad, 4 - pop, 5 - overføringstekst"> %1s %2s.  %3s  %4s\n %5s</string>
 
     <string _locid="11725" symbol="cStringHelpStringUnitPopCost">Pop:  %d  &lt;icon="(32)(resources/images/hud/resource_pop.png)"&gt;</string>
 
@@ -2932,7 +2932,7 @@
 
     <string _locid = "22739" symbol = "cStringESOCDKeyBanned"> CD-nøkkelen din er utestengt fra Ensemble Studios Online-spill. </string>
 
-    <string _locid = "22745" symbol = "cStringShortTauntFormat" comment = "1 - taunt ID-nummer, 2 taunt streng"> [Taunt%1! d! ] -%2! S! </string>
+    <string _locid = "22745" symbol = "cStringShortTauntFormat" comment = "1 - taunt ID-nummer, 2 taunt streng"> [Taunt%1! d! ] - %2!s! </string>
 
     <string _locid = "22746" symbol = "cStringTauntFormat" comment = "1 - spillernavn, 2 - hånlig ID-nummer, 3 hånende streng"> %1s: [Taunt %2d] - %3s </string>
 
@@ -8812,7 +8812,7 @@
 
     <string _locid = "31786" symbol = "cStringGCStatsLine0Col2">%av den nye verdensstyrte </string>
 
-    <string _locid = "31787" symbol = "cStringMouseoverTrainingUnitFormat2" comment = "1 - nummer, 2 - enhetsnavn, 3 - populasjon">%1! d! %2! S! (%3! D! Pop) </string>
+    <string _locid = "31787" symbol = "cStringMouseoverTrainingUnitFormat2" comment = "1 - nummer, 2 - enhetsnavn, 3 - populasjon">%1! d!  %2!s! (%3! D! Pop) </string>
 
     <string _locid = "31788" symbol = "cStringMouseoverTrainingUnitFormat3" comment = "1 - nummer, 2 - enhetsnavn, 3 -population"> %1d Gratis %2s (%3d Pop) </string>
 
@@ -11086,7 +11086,7 @@
 
     <string _locid = "34030"> Falk </string>
 
-    <string _locid = "34031" symbol = "cStringESOClanDisplayName"> [%1!s!] -%2! s! </string>
+    <string _locid = "34031" symbol = "cStringESOClanDisplayName"> [%1!s!] - %2!s! </string>
 
     <string _locid = "34032"> Skilpadder </string>
 
@@ -16048,23 +16048,23 @@
 
     <string _locid = "37529"> Palace Intrigue </string>
 
-    <string _locid = "37530" symbol = "cStringESOJoined">%1!s! har sluttet seg til kanal%2! s! </string>
+    <string _locid = "37530" symbol = "cStringESOJoined">%1!s! har sluttet seg til kanal %2!s! </string>
 
-    <string _locid = "37531" symbol = "cStringESOLeft">%1!s! har forlatt kanalen%2! s! </string>
+    <string _locid = "37531" symbol = "cStringESOLeft">%1!s! har forlatt kanalen %2!s! </string>
 
     <string _locid = "37532" symbol = "cStringESOOperatorAdded"> %s er lagt til som operatør. </string>
 
     <string _locid = "37533" symbol = "cStringESOOperatorRemoved"> %s er ikke lenger en operatør. </string>
 
-    <string _locid = "37534" symbol = "cStringESORankOf">%1!s! har fått rangeringen%2! s! </string>
+    <string _locid = "37534" symbol = "cStringESORankOf">%1!s! har fått rangeringen %2!s! </string>
 
-    <string _locid = "37535" symbol = "cStringESOOwnerOf">%1!s! har blitt gjort til eier av%2! s! </string>
+    <string _locid = "37535" symbol = "cStringESOOwnerOf">%1!s! har blitt gjort til eier av %2!s! </string>
 
-    <string _locid = "37536" symbol = "cStringESOClanAdded">%1!s! er lagt til i klan%2! s! </string>
+    <string _locid = "37536" symbol = "cStringESOClanAdded">%1!s! er lagt til i klan %2!s! </string>
 
-    <string _locid = "37537" symbol = "cStringESOClanRemoved">%1!s! er fjernet fra klan%2! s! </string>
+    <string _locid = "37537" symbol = "cStringESOClanRemoved">%1!s! er fjernet fra klan %2!s! </string>
 
-    <string _locid = "37538" symbol = "cStringESOClanLeft">%1!s! har forlatt klan%2! s! </string>
+    <string _locid = "37538" symbol = "cStringESOClanLeft">%1!s! har forlatt klan %2!s! </string>
 
     <string _locid = "37539" symbol = "cStringWhisperAbbr"> w </string>
 
@@ -23882,7 +23882,7 @@
 
     <string _locid = "41560"> Du har fanget ditt første skatteskip! Gratulerer! Hvert skip du kontrollerer, vil gi en drypp mynt. Jo mer du styrer, jo raskere siver mynten inn. Gjennom Age of Empires III kan du ha andre ressurstråler, inkludert Experience. Mens du spiller, sildrer spillet hele tiden erfaring mot å tjene nye forsendelser og nivåer for hjembyen din. </string>
 
-    <string _locid = "41561" symbol = "cStringESOFailedHomecityRetrieve"> Kunne ikke hente Home City for spiller%1!s! [%2! S!] </string>
+    <string _locid = "41561" symbol = "cStringESOFailedHomecityRetrieve"> Kunne ikke hente Home City for spiller%1!s! [ %2!s!] </string>
 
     <string _locid = "41562" symbol = "cStringESOMatch"> samsvar </string>
 
@@ -24774,13 +24774,13 @@
 
     <string _locid = "42006" symbol = "cStringMill"> Mølle </string>
 
-    <string _locid = "42007" symbol = "cStringIncreaseWorkRateEffect">%1!s!:%2! s! Arbeidsfrekvens for%3! S! +%4! .0f!%%</string>
+    <string _locid = "42007" symbol = "cStringIncreaseWorkRateEffect">%1!s!: %2!s! Arbeidsfrekvens for %3!S! +%4!.0f!%% </string>
 
     <string _locid = "42008" symbol = "cStringAddWorkRateEffect"> %1s: Legger til%2.2f til %3s arbeidsfrekvens for%4s </string>
 
-    <string _locid = "42009" symbol = "cStringSetWorkRateEffect"> %1s: Angir %2s arbeidsfrekvens for %3s til%4.2f </string>
+    <string _locid = "42009" symbol = "cStringSetWorkRateEffect"> %1s: Angir %2s arbeidsfrekvens for %3s til %4.2f </string>
 
-    <string _locid = "42010" symbol = "cStringIncreaseCostEffect">%1!s!:%2! s! kostnad +%3! .0f!%%</string>
+    <string _locid = "42010" symbol = "cStringIncreaseCostEffect">%1!s!: %2!s! kostnad +%3! .0f!%%</string>
 
     <string _locid = "42011" symbol = "cStringAddCostEffect"> %1s: Legger til%2.2f til %3s-kostnad </string>
 
@@ -24838,13 +24838,13 @@
 
     <string _locid = "42037" symbol = "cStringScout"> Speider </string>
 
-    <string _locid = "42038" symbol = "cStringIncreaseMaxRangeEffect">%1!s!:%2! s! Maksimal rekkevidde +%3! .0f!%%</string>
+    <string _locid = "42038" symbol = "cStringIncreaseMaxRangeEffect">%1!s!: %2!s! Maksimal rekkevidde +%3! .0f!%%</string>
 
     <string _locid = "42039" symbol = "cStringAddMaxRangeEffect"> %1s: Legger til%2.2f til %3s Maksimal rekkevidde </string>
 
     <string _locid = "42040" symbol = "cStringSetMaxRangeEffect"> %1s: Angir %2s maksimalt område til%3.2f </string>
 
-    <string _locid = "42041" symbol = "cStringIncreaseMinRangeEffect">%1!s!:%2! s! Minimumsområde +%3! .0f!%%</string>
+    <string _locid = "42041" symbol = "cStringIncreaseMinRangeEffect">%1!s!: %2!s! Minimumsområde +%3! .0f!%%</string>
 
     <string _locid = "42042" symbol = "cStringAddMinRangeEffect"> %1s: Legger til%2.2f til %3s minimumsområde </string>
 
@@ -24852,39 +24852,39 @@
 
     <string _locid = "42044" symbol = "cStringAllActionsEffect"> Alle handlinger </string>
 
-    <string _locid = "42045" symbol = "cStringIncreaseDamageEffect">%1!s!:%2! s! Skade +%3! .0f!%%</string>
+    <string _locid = "42045" symbol = "cStringIncreaseDamageEffect">%1!s!: %2!s! Skade +%3! .0f!%%</string>
 
     <string _locid = "42046" symbol = "cStringAddDamageEffect"> %1s: Legger til%2.2f til %3s skade </string>
 
     <string _locid = "42047" symbol = "cStringSetDamageEffect"> %1s: Setter %2s skade på%3.2f </string>
 
-    <string _locid = "42048" symbol = "cStringIncreaseDamageAreaEffect">%1!s!:%2! s! Skadeområde +%3! .0f!%%</string>
+    <string _locid = "42048" symbol = "cStringIncreaseDamageAreaEffect">%1!s!: %2!s! Skadeområde +%3! .0f!%%</string>
 
     <string _locid = "42049" symbol = "cStringAddDamageAreaEffect"> %1s: Legger til%2.2f til %3s skadeområde </string>
 
     <string _locid = "42050" symbol = "cStringSetDamageAreaEffect"> %1s: Angir %2s skadeområde til%3.2f </string>
 
-    <string _locid = "42051" symbol = "cStringIncreaseDamageBonusEffect">%1!s!:%2! s! Skadesbonus mot%3! S! +%4! .0f!%%</string>
+    <string _locid = "42051" symbol = "cStringIncreaseDamageBonusEffect">%1!s!: %2!s! Skadesbonus mot %3!S! +%4!.0f!%% </string>
 
     <string _locid = "42052" symbol = "cStringAddDamageBonusEffect"> %1s: Legger til%2.2f til %3s skadebonus mot%4s </string>
 
-    <string _locid = "42053" symbol = "cStringSetDamageBonusEffect"> %1s: Angir %2s skadebonus mot %3s til%4.2f </string>
+    <string _locid = "42053" symbol = "cStringSetDamageBonusEffect"> %1s: Angir %2s skadebonus mot %3s til %4.2f </string>
 
     <string _locid = "42054" symbol = "cStringResourceEffect"> %1s: Legger til +%2.2f %3s i beholdningen din </string>
 
-    <string _locid = "42055" symbol = "cStringIncreaseResourceTrickleRateEffect">%1!s!:%2! s! Trickle Rate +%3! .0f!%%</string>
+    <string _locid = "42055" symbol = "cStringIncreaseResourceTrickleRateEffect">%1!s!: %2!s! Trickle Rate +%3! .0f!%%</string>
 
     <string _locid = "42056" symbol = "cStringAddResourceTrickleRateEffect"> %1s: Legger til%2.2f til %3s Trickle Rate </string>
 
     <string _locid = "42057" symbol = "cStringSetResourceTrickleRateEffect"> %1s: Angir %2s Trickle Rate til%3.2f </string>
 
-    <string _locid = "42058" symbol = "cStringIncreaseMinResourceTrickleRateEffect">%1!s!:%2! s! Minimum trillingsfrekvens +%3! .0f!%%</string>
+    <string _locid = "42058" symbol = "cStringIncreaseMinResourceTrickleRateEffect">%1!s!: %2!s! Minimum trillingsfrekvens +%3! .0f!%%</string>
 
     <string _locid = "42059" symbol = "cStringAddMinResourceTrickleRateEffect"> %1s: Legger til%2.2f til %3s Minimum Trickle Rate </string>
 
     <string _locid = "42060" symbol = "cStringSetMinResourceTrickleRateEffect"> %1s: Angir %2s minimum triklefrekvens til%3.2f </string>
 
-    <string _locid = "42061" symbol = "cStringIncreaseMaxResourceTrickleRateEffect">%1!s!:%2! s! Maksimal kupéfrekvens +%3! .0f!%%</string>
+    <string _locid = "42061" symbol = "cStringIncreaseMaxResourceTrickleRateEffect">%1!s!: %2!s! Maksimal kupéfrekvens +%3! .0f!%%</string>
 
     <string _locid = "42062" symbol = "cStringAddMaxResourceTrickleRateEffect"> %1s: Legger til%2.2f til %3s Maksimal triklehastighet </string>
 
@@ -24910,13 +24910,13 @@
 
     <string _locid = "42073" symbol = "cStringSellDelta"> Selg delta </string>
 
-    <string _locid = "42074" symbol = "cStringIncreaseMarketEffect">%1!s!: Marked%2! s! +%3! .0f!%%</string>
+    <string _locid = "42074" symbol = "cStringIncreaseMarketEffect">%1!s!: Marked %2!s! +%3! .0f!%%</string>
 
     <string _locid = "42075" symbol = "cStringAddMarketEffect"> %1s: Legger til%2.2f til Market %3s </string>
 
     <string _locid = "42076" symbol = "cStringSetMarketEffect"> %1s: Setter Market %2s til%3.2f </string>
 
-    <string _locid = "42077" symbol = "cStringIncreaseInventoryAmountEffect">%1!s!:%2! s! Beholdning +%3! .0f!%%</string>
+    <string _locid = "42077" symbol = "cStringIncreaseInventoryAmountEffect">%1!s!: %2!s! Beholdning +%3! .0f!%%</string>
 
     <string _locid = "42078" symbol = "cStringAddInventoryAmountEffect"> %1s: Legger til%2.2f til %3s Inventory </string>
 
@@ -25116,7 +25116,7 @@
 
     <string _locid = "42176" symbol = "cStringSkirmishSetupHandicapLabel"> Spillerhandikap </string>
 
-    <string _locid = "42177" symbol = "cStringFreeHomeCityUnitEffect"> Leverer%1! d! %2! S! </string>
+    <string _locid = "42177" symbol = "cStringFreeHomeCityUnitEffect"> Leverer%1! d!  %2!s! </string>
 
     <string _locid = "42178"> Saml </string>
 
@@ -25690,7 +25690,7 @@
 
     <string _locid = "42460"> Roger's Ranger </string>
 
-    <string _locid = "42461" symbol = "cStringLANFailedHomecityRetrieve"> Kunne ikke hente Home City for spiller%1! d! [%2! S!] </string>
+    <string _locid = "42461" symbol = "cStringLANFailedHomecityRetrieve"> Kunne ikke hente Home City for spiller%1! d! [ %2!s!] </string>
 
     <string _locid = "42462" symbol = "cStringHomeCityModified"> Du må lagre eller avbryte endringene i hjembyen din. </string>
 
@@ -32339,7 +32339,7 @@
 
     <string _locid = "45781" symbol = "cStringDisabledLit"> Deaktivert </string>
 
-    <string _locid = "45782" symbol = "cStringSupPlayerRankTT"> Overlegen spillerangering:%1!s! (Nivå%2! S!) </string>
+    <string _locid = "45782" symbol = "cStringSupPlayerRankTT"> Overlegen spillerangering:%1!s! (Nivå %2!s!) </string>
 
     <string _locid = "45783" symbol = "cStringESONoXP"> Ingen XP </string>
 
@@ -32355,7 +32355,7 @@
 
     <string _locid = "45789" symbol = "cStringHCViewOthersCancel"> Klikk på Avbryt-knappen for å gå tilbake til brukerens hjembyvisning </string>
 
-    <string _locid = "45790" symbol = "cStringDMPlayerRankTT"> Deathmatch Player Rang:%1!s! (Nivå%2! S!) </string>
+    <string _locid = "45790" symbol = "cStringDMPlayerRankTT"> Deathmatch Player Rang:%1!s! (Nivå %2!s!) </string>
 
     <string _locid = "45791"> Seremonivogtere: {numDancers} </string>
 
@@ -46299,7 +46299,7 @@
 
     <string _locid = "63680" symbol = "cStringypPowerGuardianStun"> Deaktiverer og skader fiender i nærheten. </string>
 
-    <string _locid = "63681" symbol = "cStringIncreaseDamageCap">%1!s!:%2! s! Damage Cap +%3! .0f!%%</string>
+    <string _locid = "63681" symbol = "cStringIncreaseDamageCap">%1!s!: %2!s! Damage Cap +%3! .0f!%%</string>
 
     <string _locid = "63682"> Tamme dyr </string>
 
@@ -49731,7 +49731,7 @@
 
     <string _locid = "65439"> Portugisisk ekspedisjonsfirma </string>
 
-    <string _locid = "65440" symbol = "cStringFreeHomeCityUnitEffectShipped"> Leverer%1! d! %2! S! med%3! d! %4! S! i den </string>
+    <string _locid = "65440" symbol = "cStringFreeHomeCityUnitEffectShipped"> Leverer%1! d!  %2!s! med%3! d! %4! S! i den </string>
 
     <string _locid = "65441"> Bonus: +7 Land Unit / Building LOS\n\nTog: husarer, janitsarer, store bombarderer\n\nSendinger: økonomiske enheter </string>
 
@@ -57545,11 +57545,11 @@
 
     <string _locid = "69362" symbol = "cStringPopulationCapExtra"> %1s: Legger til %2d i befolkningsgrensen. </string>
 
-    <string _locid = "69363" symbol = "cStringIncreaseWorkRateEffectSpecific">%1!s!:%2! s! Arbeidsfrekvens for%3! S! +%4! .0f!%%(%5! S!) </string>
+    <string _locid = "69363" symbol = "cStringIncreaseWorkRateEffectSpecific">%1!s!: %2!s! Arbeidsfrekvens for %3!S! +%4!.0f!%% (%5!s!) </string>
 
-    <string _locid = "69364" symbol = "cStringAddWorkRateEffectSpecific">%1!s!: Legger til%2! s! Arbeidsfrekvens for%3! S! av%4! .0f!%%(%5! s!) </string>
+    <string _locid = "69364" symbol = "cStringAddWorkRateEffectSpecific">%1!s!: Legger til %2!s! Arbeidsfrekvens for %3!S! av %4!.0f!%% (%5!s!) </string>
 
-    <string _locid = "69365" symbol = "cStringSetWorkRateEffectSpecific"> %1s: Angir %2s arbeidsfrekvens for %3s til%4.2f (%5s) </string>
+    <string _locid = "69365" symbol = "cStringSetWorkRateEffectSpecific"> %1s: Angir %2s arbeidsfrekvens for %3s til %4.2f ( %5s) </string>
 
     <string _locid = "69366"> Yellow River: En våt-tørr region som ligner på Yellow River, men i mye større skala. </string>
 
@@ -57723,7 +57723,7 @@
 
     <string _locid = "69451" symbol = "cStringHitPercentDivineStrikeHelp"> Aktiverer Divine Strike-evne </string>
 
-    <string _locid = "69452" symbol = "cStringHitPercentTypeIncrease">%1!s!:%2! s! sjansen økte til%3! .1f!%%</string>
+    <string _locid = "69452" symbol = "cStringHitPercentTypeIncrease">%1!s!: %2!s! sjansen økte til%3! .1f!%%</string>
 
     <string _locid = "69453" symbol = "cStringAbstractNameWaterGuardian"> Vannverge </string>
 
@@ -58170,7 +58170,6 @@
     <string _locid = "69674"> Skatteskip </string>
 
     <string _locid = "69675">
-
     </string>
 
     <string _locid = "69676" symbol = "cStringHeavyCavalry2"> Tungt kavaleri </string>
@@ -60749,7 +60748,7 @@
 
     <string _locid = "70966" symbol = "cStringAutoSettingsDialogContinue"> Fortsett </string>
 
-    <string _locid = "70967" symbol = "cStringAutoSettingsDialogScore"> CPU-poengsum:%1!s! \\ nGPU-poengsum:%2! s! \\ n </string>
+    <string _locid = "70967" symbol = "cStringAutoSettingsDialogScore"> CPU-poengsum:%1!s! \\ nGPU-poengsum: %2!s! \\ n </string>
 
     <string _locid = "70968" symbol = "cStringAutoSettingsDialogUltraHigh"> Ultra høy </string>
 
@@ -62173,7 +62172,7 @@
 
     <string _locid = "72261">%1! d! av%2! d! </string>
 
-    <string _locid = "72262">%1!s! /%2! S! </string>
+    <string _locid = "72262">%1!s! / %2!s! </string>
 
     <string _locid = "72263" symbol = "cStringXBLForceSignIn"> Du må logge på Xbox Live for å fortsette </string>
 
@@ -62691,7 +62690,7 @@
 
     <string _locid = "72520"> Holme har forsvunnet. Chaytons eneste håp om å stoppe denne forestående krigen er å finne sin tidligere venn og løse dette en gang for alle. </string>
 
-    <string _locid = "72521" symbol = "cStringHomecityPickerSelectValue" comment = "Den første verdien er civ-navnet, den andre er hjemstedets navn.">%1!s! (%2! S!) </string>
+    <string _locid = "72521" symbol = "cStringHomecityPickerSelectValue" comment = "Den første verdien er civ-navnet, den andre er hjemstedets navn.">%1!s! ( %2!s!) </string>
 
     <string _locid = "72522"> Fullført: </string>
 
@@ -63433,19 +63432,19 @@
 
     <string _locid = "79899"> Birchbark </string>
 
-    <string _locid = "79900" symbol = "cStringDiscoverDoubleResourceNugget"> %1s har oppdaget en cache på %2d %3s og%4d%5s. </string>
+    <string _locid = "79900" symbol = "cStringDiscoverDoubleResourceNugget"> %1s har oppdaget en cache på %2d %3s og%4d %5s. </string>
 
     <string _locid = "79901"> En hale av stinkdyr hvis skinn er verdt %1d %2s og%3d%4s. </string>
 
-    <string _locid = "79902"> %1s har oppdaget stinkdyr med belter som er verdt %2d %3s og%4d%5s. </string>
+    <string _locid = "79902"> %1s har oppdaget stinkdyr med belter som er verdt %2d %3s og%4d %5s. </string>
 
     <string _locid = "79903"> Et nysgjerrig gibbon med et utvalg av stjålne varer verdt %1d %2s og%3d%4s. </string>
 
-    <string _locid = "79904"> %1s har oppdaget et nysgjerrig gibbon verdt %2d %3s og%4d%5s. </string>
+    <string _locid = "79904"> %1s har oppdaget et nysgjerrig gibbon verdt %2d %3s og%4d %5s. </string>
 
     <string _locid = "79905"> En nysgjerrig makak med et utvalg av stjålne varer verdt %1d %2s og%3d%4s. </string>
 
-    <string _locid = "79906"> %1s har oppdaget en nysgjerrig makak verdt %2d %3s og%4d%5s. </string>
+    <string _locid = "79906"> %1s har oppdaget en nysgjerrig makak verdt %2d %3s og%4d %5s. </string>
 
     <string _locid = "79907"> Ranged Attack (Stand Ground-modus) </string>
 
@@ -64027,17 +64026,17 @@
 
     <string _locid = "80381"> Landsbyboerne dine utfører en måneseremoni for å generere en vedlikehold av tre.\nGjeldende fordel:\n {danceDescription} </string>
 
-    <string _locid = "80382" symbol = "cStringChangeYieldEffect">%1!s!: Endrer%2! s! Utbytte for%3! S! av%4! .0f!%%</string>
+    <string _locid = "80382" symbol = "cStringChangeYieldEffect">%1!s!: Endrer %2!s! Utbytte for %3!S! av%4!.0f!%% </string>
 
     <string _locid = "80383" symbol = "cStringAddYieldEffect"> %1s: Legger til%2.2f til %3s Utbytte for%4s </string>
 
-    <string _locid = "80384" symbol = "cStringSetYieldEffect"> %1s: Angir %2s avkastning for %3s til%4.2f </string>
+    <string _locid = "80384" symbol = "cStringSetYieldEffect"> %1s: Angir %2s avkastning for %3s til %4.2f </string>
 
-    <string _locid = "80385" symbol = "cStringChangeYieldEffectSpecific">%1!s!: Endrer%2! s! Utbytte for%3! S! av%4! .0f!%%(%5! s!) </string>
+    <string _locid = "80385" symbol = "cStringChangeYieldEffectSpecific">%1!s!: Endrer %2!s! Utbytte for %3!S! av%4!.0f!%% (%5!s!) </string>
 
-    <string _locid = "80386" symbol = "cStringAddYieldEffectSpecific">%1!s!: Legger til%2! s! Utbytte for%3! S! av%4! .0f!%%(%5! s!) </string>
+    <string _locid = "80386" symbol = "cStringAddYieldEffectSpecific">%1!s!: Legger til %2!s! Utbytte for %3!S! av%4!.0f!%% (%5!s!) </string>
 
-    <string _locid = "80387" symbol = "cStringSetYieldEffectSpecific">%1!s!: Setter%2! s! Utbytte for%3! S! til%4! .0f!%%(%5! s!) </string>
+    <string _locid = "80387" symbol = "cStringSetYieldEffectSpecific">%1!s!: Setter %2!s! Utbytte for %3!S! til%4!.0f!%% (%5!s!) </string>
 
     <string _locid = "80388"> En vellykket Inti-festival gir deg en forsendelse. </string>
 
@@ -64225,13 +64224,13 @@
 
     <string _locid = "80515"> Imperial Unity Shipment er ankommet. </string>
 
-    <string _locid = "80516" symbol = "cStringIncreaseRateOfFireEffect">%1!s!:%2! s! Brannhastighet +%3! .0f!%%</string>
+    <string _locid = "80516" symbol = "cStringIncreaseRateOfFireEffect">%1!s!: %2!s! Brannhastighet +%3! .0f!%%</string>
 
-    <string _locid = "80517" symbol = "cStringDecreaseRateOfFireEffect">%1!s!:%2! s! Brannfrekvens%3! .0f!%%</string>
+    <string _locid = "80517" symbol = "cStringDecreaseRateOfFireEffect">%1!s!: %2!s! Brannfrekvens%3! .0f!%%</string>
 
-    <string _locid = "80518" symbol = "cStringAddRateOfFireEffect">%1!s!: Legger til%2! .2f! til%3! s! Brannhastighet </string>
+    <string _locid = "80518" symbol = "cStringAddRateOfFireEffect">%1!s!: Legger til%2! .2f! til %3!S! Brannhastighet </string>
 
-    <string _locid = "80519" symbol = "cStringSetRateOfFireEffect">%1!s!: Setter%2! s! Brannhastighet til%3! .2f! </string>
+    <string _locid = "80519" symbol = "cStringSetRateOfFireEffect">%1!s!: Setter %2!s! Brannhastighet til%3! .2f! </string>
 
     <string _locid = "80520"> Krigshytter og høyborg kan bruke skjult. </string>
 
@@ -64251,7 +64250,7 @@
 
     <string _locid = "80528"> Camayosendingen er kommet. </string>
 
-    <string _locid = "80529" symbol = "cStringFreeHomeCityUnitResourceEffect"> Leverer%1! d! %2! S! bærer ekstra%3! d! %4! S! </string>
+    <string _locid = "80529" symbol = "cStringFreeHomeCityUnitResourceEffect"> Leverer%1! d!  %2!s! bærer ekstra%3! d! %4! S! </string>
 
     <string _locid = "80530"> Aymara sender 5 sjakiser og forbedrer dem sterkt i kamp. Øker byggegrensen for Chasquis. </string>
 
@@ -67141,35 +67140,35 @@
 
     <string _locid = "90125" symbol = "cStringDecreaseBuildLimitEffect" comment = "1 - effekt, 2 - hvor mye ble endret">%1!s!: Bygg grense%2!.0f!%%</string>
 
-    <string _locid = "90126" symbol = "cStringDecreaseWorkRateEffect">%1!s!:%2! s! Arbeidsfrekvens for%3! S! %4! .0f!%%</string>
+    <string _locid = "90126" symbol = "cStringDecreaseWorkRateEffect">%1!s!: %2!s! Arbeidsfrekvens for %3!S! %4!.0f!%% </string>
 
-    <string _locid = "90127" symbol = "cStringDecreaseCostEffect">%1!s!:%2! s! koster%3! .0f!%%</string>
+    <string _locid = "90127" symbol = "cStringDecreaseCostEffect">%1!s!: %2!s! koster%3! .0f!%%</string>
 
-    <string _locid = "90128" symbol = "cStringDecreaseMaxRangeEffect">%1!s!:%2! s! Maksimal rekkevidde%3! .0f!%%</string>
+    <string _locid = "90128" symbol = "cStringDecreaseMaxRangeEffect">%1!s!: %2!s! Maksimal rekkevidde%3! .0f!%%</string>
 
-    <string _locid = "90129" symbol = "cStringDecreaseMinRangeEffect">%1!s!:%2! s! Minste rekkevidde%3! .0f!%%</string>
+    <string _locid = "90129" symbol = "cStringDecreaseMinRangeEffect">%1!s!: %2!s! Minste rekkevidde%3! .0f!%%</string>
 
-    <string _locid = "90130" symbol = "cStringDecreaseDamageEffect">%1!s!:%2! s! Skade%3! .0f!%%</string>
+    <string _locid = "90130" symbol = "cStringDecreaseDamageEffect">%1!s!: %2!s! Skade%3! .0f!%%</string>
 
-    <string _locid = "90131" symbol = "cStringDecreaseDamageAreaEffect">%1!s!:%2! s! Skadeområde%3! .0f!%%</string>
+    <string _locid = "90131" symbol = "cStringDecreaseDamageAreaEffect">%1!s!: %2!s! Skadeområde%3! .0f!%%</string>
 
-    <string _locid = "90132" symbol = "cStringDecreaseDamageBonusEffect">%1!s!:%2! s! Skadesbonus mot%3! S! %4! .0f!%%</string>
+    <string _locid = "90132" symbol = "cStringDecreaseDamageBonusEffect">%1!s!: %2!s! Skadesbonus mot %3!S! %4!.0f!%% </string>
 
-    <string _locid = "90133" symbol = "cStringDecreaseResourceTrickleRateEffect">%1!s!:%2! s! Tricklerate%3! .0f!%%</string>
+    <string _locid = "90133" symbol = "cStringDecreaseResourceTrickleRateEffect">%1!s!: %2!s! Tricklerate%3! .0f!%%</string>
 
-    <string _locid = "90134" symbol = "cStringDecreaseMinResourceTrickleRateEffect">%1!s!:%2! s! Minimum kupéhastighet%3! .0f!%%</string>
+    <string _locid = "90134" symbol = "cStringDecreaseMinResourceTrickleRateEffect">%1!s!: %2!s! Minimum kupéhastighet%3! .0f!%%</string>
 
-    <string _locid = "90135" symbol = "cStringDecreaseMaxResourceTrickleRateEffect">%1!s!:%2! s! Maksimal sifferprosent%3! .0f!%%</string>
+    <string _locid = "90135" symbol = "cStringDecreaseMaxResourceTrickleRateEffect">%1!s!: %2!s! Maksimal sifferprosent%3! .0f!%%</string>
 
-    <string _locid = "90136" symbol = "cStringDecreaseMarketEffect">%1!s!: Marked%2! s! %3! .0f!%%</string>
+    <string _locid = "90136" symbol = "cStringDecreaseMarketEffect">%1!s!: Marked %2!s! %3! .0f!%%</string>
 
-    <string _locid = "90137" symbol = "cStringDecreaseInventoryAmountEffect">%1!s!:%2! s! Beholdning%3! .0f!%%</string>
+    <string _locid = "90137" symbol = "cStringDecreaseInventoryAmountEffect">%1!s!: %2!s! Beholdning%3! .0f!%%</string>
 
     <string _locid = "90138" symbol = "cStringDecreaseResearchPointsEffect">%1!s!: Research Points%2!.0f!%%</string>
 
     <string _locid = "90139" symbol = "cStringDecreaseBuildBountyEffect">%1!s!: Build Bounty%2!.0f!%%</string>
 
-    <string _locid = "90140" symbol = "cStringDecreaseDamageCap">%1!s!:%2! s! Skadehett%3! .0f!%%</string>
+    <string _locid = "90140" symbol = "cStringDecreaseDamageCap">%1!s!: %2!s! Skadehett%3! .0f!%%</string>
 
     <string _locid = "90141" symbol = "cStringDecreaseArmorEffect">%1!s!: Rustning%2!.0f!%%</string>
 
@@ -67177,7 +67176,7 @@
 
     <string _locid = "90143" symbol = "cStringDecreaseHandDamageEffect">%1!s!: Alle nærkampangrep skader%2!.0f!%%</string>
 
-    <string _locid = "90144" symbol = "cStringDecreaseWorkRateEffectSpecific">%1!s!:%2! s! Arbeidsfrekvens for%3! S! %4! .0f!%%(%5! S!) </string>
+    <string _locid = "90144" symbol = "cStringDecreaseWorkRateEffectSpecific">%1!s!: %2!s! Arbeidsfrekvens for %3!S! %4!.0f!%% (%5!s!) </string>
 
     <string _locid = "90145" symbol = "cStringAddDamageCap"> %1s: Legger til%2.2f til %3s skadehett </string>
 
@@ -68039,7 +68038,7 @@
 
     <string _locid = "91257"> Huayna Capac har all kraften nå. Jeg vil begynne å vurdere ideen om å finne et nytt hjem. </string>
 
-    <string _locid = "91258">%1! s !, Navn:%2! s !, spillere%3! s! av%4! s !, kart%5! s !, regler%6! s !, skriv%7! s !, server:%8! s! </string>
+    <string _locid = "91258">%1! s !, Navn:%2! s !, spillere %3!S! av%4! s !, kart%5! s !, regler%6! s !, skriv%7! s !, server:%8! s! </string>
 
     <string _locid = "91259"> Send ord på tvers av imperiene våre - vi må verve alle som er gamle nok til å holde et våpen! Vi kan ikke tillate en så ynkelig seier! Send ord på tvers av imperiene våre - vi må verve alle som er gamle nok til å holde et våpen! Vi kan ikke tillate en så ynkelig seier! </string>
 
@@ -68511,7 +68510,7 @@
 
     <string _locid = "91527"> Feltartilleri </string>
 
-    <string _locid = "91528" symbol = "cStringInGameChatNarrationFormat"> L "%1!s! sier:%2! s!" </string>
+    <string _locid = "91528" symbol = "cStringInGameChatNarrationFormat"> L "%1!s! sier: %2!s!" </string>
 
     <string _locid = "91529"> Tung kavaleri leiesoldat </string>
 
@@ -68803,9 +68802,9 @@
 
     <string _locid = "91673"> Forsendelsen til Oxenstierna Reforms er kommet. </string>
 
-    <string _locid = "91674" symbol = "cStringIncreaseResourceReturnEffect">%1!s!: Returnert ressursbeløp +%2!.0f!%%(%3! s!) </string>
+    <string _locid = "91674" symbol = "cStringIncreaseResourceReturnEffect">%1!s!: Returnert ressursbeløp +%2!.0f!%%( %3!S!) </string>
 
-    <string _locid = "91675" symbol = "cStringDecreaseResourceReturnEffect">%1!s!: Returnert ressursbeløp%2!.0f!%%(%3! s!) </string>
+    <string _locid = "91675" symbol = "cStringDecreaseResourceReturnEffect">%1!s!: Returnert ressursbeløp%2!.0f!%%( %3!S!) </string>
 
     <string _locid = "91676" symbol = "cStringAddResourceReturnEffect"> %1s: Legger til%2.2f til returnert ressursbeløp ( %3s) </string>
 
@@ -69597,7 +69596,7 @@
 
     <string _locid = "110198"> Inspirerende flagg kan ikke plasseres rett ved siden av bygninger. </string>
 
-    <string _locid = "110199" symbol = "cStringFreeHomeCityUnitEffectWorldYear"> Leverer%1! d! %2! S! (Maksimum) </string>
+    <string _locid = "110199" symbol = "cStringFreeHomeCityUnitEffectWorldYear"> Leverer%1! d!  %2!s! (Maksimum) </string>
 
     <string _locid = "110200"> Skip 1 Vanlig for hver forsendelse du har mottatt så langt dette spillet. </string>
 
@@ -70151,9 +70150,9 @@
 
     <string _locid = "110471"> Ladet evne: Brukes automatisk når det ikke er nedkjølt </string>
 
-    <string _locid = "110472" symbol = "cStringFreeHomeCityUnitRandomEffect"> Leverer%1! d! tilfeldige enheter på%2! s! type </string>
+    <string _locid = "110472" symbol = "cStringFreeHomeCityUnitRandomEffect"> Leverer%1! d! tilfeldige enheter på %2!s! type </string>
 
-    <string _locid = "110473" symbol = "cStringFreeHomeCityUnitRandomEffectWorldYear"> Leverer%1! d! tilfeldige enheter på%2! s! type (Maksimum) </string>
+    <string _locid = "110473" symbol = "cStringFreeHomeCityUnitRandomEffectWorldYear"> Leverer%1! d! tilfeldige enheter på %2!s! type (Maksimum) </string>
 
     <string _locid = "110474"> Aktiverer opptil 3 tilfeldige leiesoldater i salongen og sender 13 tilfeldige leiesoldatenheter. </string>
 
